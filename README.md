@@ -1,4 +1,8 @@
 ### Video downloading
+Example usage:
+
+`python .\download_video.py "https://www.youtube.com/watch?v=abcdefg" --output .\clips\video.mkv`
+`python .\download_video.py "https://www.twitch.tv/videos/1234567890" --output .\clips\video.mkv`
 
 ### Load detection
 Example usage:
