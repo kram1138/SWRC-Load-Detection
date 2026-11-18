@@ -1,0 +1,20 @@
+{
+  "bars": [
+    {
+      "left_x": 161,
+      "right_x": 477,
+      "y": 260,
+      "loading_color": "#376475",
+      "completed_color": "#97E6F9",
+      "tolerance": 60
+    },
+    {
+      "left_x": 365,
+      "right_x": 537,
+      "y": 220,
+      "loading_color": "#326673",
+      "completed_color": "#9BD8FF",
+      "tolerance": 60
+    }
+  ]
+}
